@@ -1,0 +1,9 @@
+numpy
+Pillow
+scikit-learn
+scikit-image
+tqdm
+joblib
+# 以下為可選：啟用 AE 時才需安裝對應平台的 PyTorch 套件
+# torch
+# torchvision
