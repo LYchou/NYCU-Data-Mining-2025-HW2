@@ -31,4 +31,6 @@ venv/
 # Submissions (keep sample_submission.csv tracked)
 v*_submission.csv
 
-
+v4_artifacts/
+v3_submission1.csv
+v3-2_artifacts/
